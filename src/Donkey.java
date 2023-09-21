@@ -1,6 +1,4 @@
-import java.util.List;
-
-public class Donkey extends Animals{
+public class Donkey extends PackAnimals{
     public Donkey(String name, String dateOfBirth) {
         super(name, dateOfBirth);
     }

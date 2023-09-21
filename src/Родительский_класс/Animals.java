@@ -1,3 +1,5 @@
+package Родительский_класс;
+
 public class Animals {
     private String name;
     private String dateOfBirth;

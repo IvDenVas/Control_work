@@ -2,7 +2,6 @@ import java.io.IOException;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
-
 public class Main{
     public static void main(String[] args) throws IOException {
         boolean work = true;

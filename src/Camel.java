@@ -1,6 +1,4 @@
-import java.util.List;
-
-public class Camel extends Animals{
+public class Camel extends PackAnimals{
     public Camel(String name, String dateOfBirth) {
         super(name, dateOfBirth);
     }
